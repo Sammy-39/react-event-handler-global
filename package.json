@@ -1,0 +1,22 @@
+{
+  "name": "react-event-handler-global",
+  "version": "1.0.0",
+  "description": "A custom react hook to add event listeners to document and window object of DOM",
+  "repository": "https://github.com/Sammy-39/react-event-handler-global",
+  "author": {
+    "name": "Sammy",
+    "email": "o.samy39@gmail.com",
+    "url": "https://sammy-portfolio-client.herokuapp.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "keywords": [
+    "window",
+    "document",
+    "event listener",
+    "global"
+  ]
+}
