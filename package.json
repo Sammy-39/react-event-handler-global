@@ -2,7 +2,7 @@
   "name": "react-event-handler-global",
   "version": "1.0.1",
   "description": "A custom react hook to add event listeners to document and window object of DOM",
-  "main": "react-event-handler-global",
+  "main": "react-event-handler-global.js",
   "repository": "https://github.com/Sammy-39/react-event-handler-global",
   "author": {
     "name": "Sammy",
